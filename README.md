@@ -29,7 +29,7 @@ I specialize in **Full Stack Development**, particularly with the **MERN Stack (
 ### 🔧 Back-end
 - Node.js
 - Express.js
-- 
+  
 ### 🗄️ Databases
 - MongoDB
 - MySQL
