@@ -2,8 +2,6 @@
 **A passionate Full Stack Developer || Java Developer**
 
 Email Me 👉 ✉️ **anjali.tanwar.2706@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-# 💻 Full Stack Developer | MERN Stack | Java | 
-
 ### 📍 Location: Indore, India  
 ---
 
@@ -12,33 +10,6 @@ Email Me 👉 ✉️ **anjali.tanwar.2706@gmail.com** For Collaboration/Project 
 I’m a passionate **coder** currently pursuing a **Bachelor’s degree in Computer Science**.  
 I specialize in **Full Stack Development**, particularly with the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**, and have solid experience in **Java** for enterprise solutions.
 
----
-
-## 🛠️ Technical Skills
-
-### 🚀 Languages
-- Java
-- JavaScript
-
-### 🌐 Front-end
-- HTML
-- CSS
-- JavaScript
-- React.js
-  
-### 🔧 Back-end
-- Node.js
-- Express.js
-  
-### 🗄️ Databases
-- MongoDB
-- MySQL
-
-### 🧰 Tools & IDEs
-- VS Code
-- IntelliJ IDEA
-- Postman
-- Git & GitHub 
 ---
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me.
 
@@ -57,6 +28,10 @@ I specialize in **Full Stack Development**, particularly with the **MERN Stack (
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anjali7896&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
